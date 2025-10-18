@@ -1,0 +1,10 @@
+
+print("****************************************")
+print("              MOVIE TICKET              ")
+print("****************************************")
+print("Movie Name:     Spider man:No Way Home")
+print("Show Time:      7:30 PM")
+print("Date:           17-Oct-2025")
+print("Seat Number:    D12")
+print("Ticket Price:   ₹250")
+print("****************************************")

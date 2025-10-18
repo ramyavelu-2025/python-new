@@ -1,0 +1,10 @@
+
+print("====================================")
+print("           BUSINESS CARD            ")
+print("====================================")
+print("Name:        Ramya Velmurugan")
+print("Job Title:   Software Developer")
+print("Company:     Vetri Technology Solutions")
+print("Email:       ramya.velmurugan@example.com")
+print("Phone:       +91 98765 43210")
+print("====================================")
